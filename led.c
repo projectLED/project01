@@ -11,5 +11,8 @@ int brigtness(int r, int g, int b)
 
 int color(int a, int b)
 {
+	int x;
+	x = a * b;
+	return 0;
 }
 
