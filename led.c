@@ -9,6 +9,7 @@ int brigtness(int r, int g, int b)
 	return x;
 }
 
+/* color function */
 int color(int a, int b)
 {
 	int x;
