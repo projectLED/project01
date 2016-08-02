@@ -7,6 +7,7 @@ int main()
 	printf("hello, hansole\n");
 	printf("hello, hana\n");
 	printf("hello, yeseul\n");
+	printf("hello, hyeongi\n");
 	return 0;
 }
 
