@@ -4,10 +4,10 @@
 int main()
 {
 	printf("Hello, world2\n");
-	printf("hello, hansole\n");
 	printf("hello, hana\n");
 	printf("hello, yeseul\n");
 	printf("hello, hyeongi\n");
+	printf("hello, hansol:)\n");
 	return 0;
 }
 
